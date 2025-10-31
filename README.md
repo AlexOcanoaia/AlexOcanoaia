@@ -2,7 +2,7 @@
 
 I am studying at National University 
 of Science and Technology POLITEHNICA 
-Bucharest. I'm currently in the second
+Bucharest. I'm currently in the third
 year of a Bachelor's Degree in Computer
 Science.
 
