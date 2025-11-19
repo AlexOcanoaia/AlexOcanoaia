@@ -10,11 +10,12 @@ Science.
 find it fascinating to explore how the 
 components of the computer works together.
 
-- Another interest: memory management, data 
-structures and programming languages
+- Another interests: memory management, data 
+structures, programming languages, computer
+networking.
 
 - If you want, you can connect with me on
 [LinkedIn](https://www.linkedin.com/in/alexandru-ocanoaia/).
 
-- Languages and skills: C, Java, bash, Linux,
+- Languages and skills: C/C++, Java, bash, Linux,
 Assembly, Rust.
